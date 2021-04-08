@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/charles/Desktop/Java/NewClienteChat_Copy_0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/NewClienteChat_Copy_0/NewClienteChat_Copy_0_jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/NewClienteChat_Copy_0/.project"/>
+        <javaElement handleIdentifier="=NewClienteChat_Copy_0/src"/>
+        <file path="/NewClienteChat_Copy_0/.classpath"/>
+    </selectedElements>
+</jardesc>
